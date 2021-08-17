@@ -1,0 +1,318 @@
+<?xml version="1.0"?>
+<Project name="Book1">
+	<ItemGroup>
+		<Filter Include="Image">
+			<Extensions>jpeg;jpg;png;</Extensions>
+		</Filter>
+		<Filter Include="Document">
+			<Extensions>docx;txt;html</Extensions>
+		</Filter>
+	</ItemGroup>
+	<Metadata>
+		<Version>1</Version>
+		<Stage>Verifier</Stage>
+		<Corrector>None</Corrector>
+		<SanityChecker>None</SanityChecker>
+		<Verifier>None</Verifier>
+		<File Include="Images/page-51.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-52.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-53.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-54.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-55.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-56.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-57.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-58.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-59.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-60.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-61.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-62.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-63.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-64.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-65.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-66.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-67.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-68.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-69.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-70.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-71.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-72.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-73.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-74.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-75.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-276.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-277.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-278.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-279.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-280.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-281.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-282.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-283.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-284.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-285.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-286.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-287.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-288.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-289.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-290.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-291.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-292.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-293.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-294.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-295.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-296.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-297.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-298.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-299.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-300.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Inds/page-51.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-52.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-53.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-54.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-55.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-56.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-57.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-58.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-59.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-60.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-61.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-62.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-63.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-64.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-65.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-66.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-67.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-68.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-69.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-70.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-71.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-72.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-73.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-74.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-75.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-276.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-277.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-278.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-279.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-280.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-281.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-282.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-283.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-284.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-285.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-286.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-287.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-288.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-289.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-290.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-291.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-292.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-293.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-294.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-295.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-296.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-297.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-298.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-299.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-300.txt">
+			<Filter>Document</Filter>
+		</File>
+	</Metadata>
+</Project>

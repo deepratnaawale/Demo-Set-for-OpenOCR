@@ -1,0 +1,87 @@
+{
+    "AverageCharAccuracy": 8.979999542236328,
+    "AverageCharErrors": 2,
+    "AverageWordAccuracy": 9.005000114440918,
+    "AverageWordErrors": 0,
+    "Formatting": true,
+    "Rating-V1": 1,
+    "pages": {
+        "": {
+            "characcuracy": 97.55999755859375,
+            "charerrors": 46,
+            "comments": "",
+            "pagename": "",
+            "rating": 3,
+            "wordaccuracy": 98.11000061035156,
+            "worderrors": 4
+        },
+        "V1_page-100": {
+            "comments": "all highlights are spelling errors, except the ones which have a superscript placement issue"
+        },
+        "V1_page-101": {
+            "comments": "सम्बन्धिव्यासार्धसिध्द्यर्थं : please check highlighted letter against original \nप्रविशन्त्यावितख्यासभासाद्यापि : this is maasaadhyaa not baasaadhyaa - please verify \na lot of spelling errors"
+        },
+        "V1_page-102": {
+            "comments": "कर्णः   | missing after karnaha \nrest of highlights are spelling errors, too many in this page. "
+        },
+        "V1_page-53": {
+            "comments": "Pg number location on the left change to right of the page.\npls check overall formatting, found extra spacing\n---------------------------------------------\nAll highlighted text are spelling errors. \nत्रिघ्रवर्गेतराभ्यासाभ्यां \" thrigna correction , not thrigra \nनवविस्तुतिदीर्धपिण्डे  spelling error\nबाद्दोश्चतुस्सङ्ख्य spellingerror"
+        },
+        "V1_page-54": {
+            "comments": "page number is 26 in original text, you have 23\nall highlighted text indicate obvious spelling errors. "
+        },
+        "V1_page-55": {
+            "comments": "page number on right side of page in original text, you have it here on left side.\n\nभवेद१ष्टासु : no space b/w dha and shta in original text, superscript isabove the word . \nशिष्टेनेष्टो२नतुल्येऽस्य no space b/w letters in text, super script is placed above the entire word.\nइष्टो३नराशिना same as above - super script spacing\n"
+        },
+        "V1_page-56": {
+            "comments": "all highlighted text except the ones noted below are spelling errors\nकर्णात्मकयोस्त्र्यश्रबाह्नोः I was not sure if it is baahno ?? pls check word\nत्र्यश्रषडश्र१घनयोः The superscript appears above the entire word, not betweeen two letters as shown in the text\nसा४धारणी : superscript is b/w characters, not right as it looks like the superscript is after saa, the word is saadhaarani! \nकर्ण५वर्गः : same cooment as above \n'यश्चैव भुजावर्ग कोटीवर्गश्च \nकर्णवर्गः स' : the quotation marks ' and ' seem very small, pls check - may be okay \n यासा, : this is in quotes in original text"
+        },
+        "V1_page-57": {
+            "comments": "page number on left of page , original text shows it on the right \nविधचतुरश्र३त्वं : superscript placement between letters, this is not how it appears in original text\nthe rest og the highlights are spelling errors"
+        },
+        "V1_page-58": {
+            "comments": "Pls check overall formatting\nExcept the following, all highlighted text are spelling errors\nबाहुतदर्धवर्ग१विवरमूलमेव समदलकोटि२रिति  superscript placement as commented in several pages earlier. placement in original is on top of the word , not between letters\nषडश्रि३घनः superscript placement"
+        },
+        "V1_page-59": {
+            "comments": "except the highlights which involve a superscript wherein placement is the issue, all othe highlights are spelling errors. "
+        },
+        "V1_page-60": {
+            "comments": "लम्बाजयसूत्र२स्य : check spelling and a superscript is missing\nपार्श्व : spelling : it is paarshvam , pls verify \nस्वयोगहृतं : spelling fine, but superscript missing\nविभजेत्। : there is no | after the word \nतद्गुणितं  : spelling error"
+        },
+        "V1_page-61": {
+            "comments": "३३  : Page number on right side of page in original text \nपृथगकैक- spelling wrong\nसिध्दिरिति : Dh has to be at the botton of dha - see placement  -द्ध this is the right letter\nसूत्रत्र२यसंपातात् : superscript b/w letters \nमुखtuल्यश्चेतरभागगतः spelling check has english\n tu \nविप्रकर्षो  spelling error\nपुनर्वृतचतुरश्रादिक्षेत्र- chk spelling\nit is vritta  or vrita - check \nसूत्रखण्डयोरितरेतरमेकदिग्गतंयोrऋजुत्वादेव : Spelling - English r present and also superscript missing \nकोट्य५ :   check spelling it is kotyaa\nयत्रेच्छावृद्धयनु- check spelling \nद्व४योर्द्वयोरन्तरालानां : superscript placement "
+        },
+        "V1_page-62": {
+            "comments": "भूयोदर्शन१न : chk spelling is it darshanEna ?? also check superscript placement \nपरिमाण३त- superscript format only\nआम : chk word\nप्रद४र्श्या  - sueprscript format only \nविषयव्याप्त्यार्थमिच्छाफलयो- spelling error\nसिध्दम् : it should be like this ddha द्धि : Check the letter itself"
+        },
+        "V1_page-72": {
+            "comments": "तदग्रप्रापिणीरेखां : two words and praanineem not praaninee\nसाच two words saa and cha"
+        },
+        "V1_page-76": {
+            "comments": ""
+        },
+        "V1_page-80": {
+            "comments": "गुण्य१त्वात् : superscript position issue \nरवण्डज्यान्तर३मिति : superscript position issue"
+        },
+        "V1_page-83": {
+            "comments": "प्र१क्षिपेज्जह्यात् super script position \n'स्वस्' not sure if last letter is \"s\" "
+        },
+        "V1_page-92": {
+            "comments": "योगो१ऽपि : superscript format only"
+        },
+        "V1_page-93": {
+            "comments": "हर३ण : it is haranam, check spelling and superscript position\nकर्तुन : kartum na two words - spelling \nतद्वाततुल्य : it is taddha , not va - pls verify \nतद्वरणे : taddhara..not tadvara   - verify \nद्विघ्रया : dvigna, not dvigra \nrest of the spelling errors should be self explanatory"
+        },
+        "V1_page-97": {
+            "comments": ""
+        },
+        "page-100": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-100",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        }
+    }
+}
