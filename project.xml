@@ -8,6 +8,9 @@
 			<Extensions>docx;txt;html</Extensions>
 		</Filter>
 	</ItemGroup>
+	<Configuration>
+		<Prefixmatch>True</Prefixmatch>
+	</Configuration>
 	<Metadata>
 		<Version>1</Version>
 		<Stage>Verifier</Stage>
